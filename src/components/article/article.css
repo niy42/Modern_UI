@@ -1,0 +1,14 @@
+.blog__container-article {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    background: var(--color-footer);
+}
+
+.blog__container-article-image{
+    width: 100%;
+    height: 100%;
+    background: var(--color-footer)
+}
