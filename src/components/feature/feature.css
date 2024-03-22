@@ -56,7 +56,7 @@
         line-height: 22px;
     }
 
-    .features__container-feature-text {
+    .features__container-feature-text p {
         font-size: 12px;
         line-height: 20px;
     }
