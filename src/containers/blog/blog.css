@@ -35,3 +35,28 @@
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 2rem;
 }
+
+@media screen and (max-width: 990px) {
+    .blog__container {
+        flex-direction: column-reverse;
+    }
+
+    .blog__container-groupA {
+
+        margin: 2rem 0
+    }
+
+    .blog__container-groupA .blog__container-article {
+        width: 46%;
+    }
+
+    .blog__container-groupA .blog__container-article-image {
+        height: 150px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .blog__container-groupB {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
