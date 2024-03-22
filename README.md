@@ -1,10 +1,10 @@
-# Welcome to [Your Project Name]!
+# Welcome to [Interakt]!
 
-![Project Logo](link_to_logo_image)
+![Project Logo](https://github.com/niy42/Modern_UI/blob/main/src/assets/Modern_.png)
 
-Hey there! 👋 Welcome to [Your Project Name], where we're redefining the user experience with our cutting-edge front-end design.
+Hey there! 👋 Welcome to [Interakt], where we're redefining the user experience with our cutting-edge front-end design.
 
-## About [Your Project Name]
+## About [Interackt]
 
 [Your Project Name] is a modern UI/UX front-end project designed to elevate user interactions to new heights. With sleek aesthetics, intuitive navigation, and a focus on user-centric design, we're setting a new standard for digital experiences.
 
