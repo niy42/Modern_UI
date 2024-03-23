@@ -59,4 +59,20 @@
     .blog__container-groupB {
         grid-template-columns: repeat(1, 1fr);
     }
+
+    .blog__container-groupA .blog__container-article {
+        width: 100%;
+    }
+
+    .blog__heading h1 {
+        font-size: 46px;
+        line-height: 52px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+     .blog__heading h1 {
+        font-size: 34px;
+        line-height: 42px;
+    }
 }

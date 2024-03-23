@@ -23,23 +23,3 @@ const WhatGPT3 = () => {
 }
 
 export default WhatGPT3;
-
-const WhatGPT4 = () => {
-  return(
-    <div className='whatgpt4'>
-      <div className='whatgpt4__header'>
-        <h1>This is me in React action</h1>
-        <p>testing app</p>
-        <div className='whatgpt4__header-sign'>
-          <input type='email' placeholder='Enter Your Email'/>
-          <button>Click me</button>
-
-        </div>
-      </div>
-      <div className='whatgpt4__image'>
-
-      </div>
-
-    </div>
-  );
-}
