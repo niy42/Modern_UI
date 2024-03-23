@@ -28,11 +28,11 @@ To get started with Interakt, simply clone this repository and follow the instal
 
 ## Contributing
 
-We welcome contributions from the community! Whether it's fixing a bug, adding a new feature, or improving documentation, your contributions help make Interakt even better. Check out my [Contribution Guidelines](link_to_contributing_guidelines) for more information.
+I welcome contributions from the community! Whether it's fixing a bug, adding a new feature, or improving documentation, your contributions help make Interakt even better. Check out my [Contribution Guidelines](link_to_contributing_guidelines) for more information.
 
-## Showcase
+<!--## Showcase
 
-<!--Here are a few snapshots of Interakt in action:
+Here are a few snapshots of Interakt in action:
 
 ![Screenshot 1](link_to_screenshot_1)
 ![Screenshot 2](link_to_screenshot_2)
