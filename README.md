@@ -2,7 +2,7 @@
 
 ![Project Logo](https://github.com/niy42/Modern_UI/blob/main/src/assets/Modern_.png)
 
-Hey there! 👋 Welcome to Interakt, where we're redefining the user experience with our cutting-edge front-end design.
+Hey there! 👋 Welcome to Interakt, where I'm redefining the user experience with my cutting-edge front-end design.
 
 ## About Interackt
 
