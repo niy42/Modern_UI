@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import logo from '../../assets/logo.png'
+import gpt3 from '../../assets/GPT-3x.svg'
 import { RiCloseLine, RiMenu3Line } from 'react-icons/ri';
 import './navbar5.css';
 
@@ -42,7 +42,7 @@ const Navbar5 = () => {
     <div className='navbar' id='#home'>
         <div className='navbar__links'>
             <div className='navbar__links-logo'>
-                <img src={logo} alt='logo'/>
+                <img src={gpt3} alt='logo'/>
             </div>
             <div className='navbar__links-container'>
                <p>
